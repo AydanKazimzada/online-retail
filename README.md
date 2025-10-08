@@ -14,8 +14,12 @@ In this notebook, we:
 5. Interpret customer segments to derive actionable insights.
 
 ## Results Summary
-Customers were grouped into distinct segments such as:
-High-value frequent buyers
-Occasional shoppers
-Recent one-time buyers
-The segmentation enables targeted marketing and better retention planning.
+
+* Customers were grouped into **distinct segments** such as:
+
+  * **High-value frequent buyers**
+  * **Occasional shoppers**
+  * **Recent one-time buyers**
+* The segmentation enables **targeted marketing** and **better retention planning**.
+
+
